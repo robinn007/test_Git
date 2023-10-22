@@ -1,4 +1,3 @@
 
 This is another some sample file
-
-This is for some refrence for practise.
+this is some another line for refrence.
